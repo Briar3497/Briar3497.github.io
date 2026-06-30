@@ -149,10 +149,10 @@ GitHub:
 https://github.com/Briar3497
 
 LinkedIn:
-(Add your LinkedIn URL)
+www.linkedin.com/in/briar-lilly-433061293
 
 Email:
-(Add your professional email)
+silvermoon3497@gmail.com
 
 ## License
 
